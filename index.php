@@ -359,7 +359,7 @@ if (isset($_SESSION['myusername']))
 </tr>
 
 								<tr>
-									<td> <button class="btn large orange" type="submit">Join Saa hii!</button></td>
+									<td> <button class="btn large orange" type="submit">Join Today!</button></td>
 								</tr>
 
 
