@@ -261,7 +261,7 @@ if (isset($_SESSION['myusername']))
 				if ($errno == 1) { echo "A confirmation code has been sent to your number.";} 
 				else if ($errno == 2) { echo "The email you gave is invalid. Please use a different email address or use a different one. ";} 
 				else if ($errno == 3) { echo "Please log in to view the page";} 
-				else if ($errno == 4) {echo " It seems you have not confirmed your messages from a confirmation code from DUMA</br> 
+				else if ($errno == 4) {echo " It seems you have not confirmed your account. Please check your messages for a confirmation code from DUMA.</br> 
 											<a href=\"confirm.php\" style=\"color:blue;\">Resend confirmation link? </a>";}
 				else if ($errno == 5) { $given_email = $_GET["given"]; echo "$given_email does not exist in our database please sign up below";} 
 				else if ($errno == 6) { echo "Wrong Username/Password  <a href=\"forgot.php\" style=\"color:blue;\">Forgot password? </a>";} 
