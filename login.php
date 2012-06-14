@@ -24,6 +24,12 @@ $complete = $row['has_completed'];
 $has_confirmed = $row['has_confirmed'];
 $cryptedPassword = md5($mypassword);
 
+
+if ($row == 0){
+header("location:index.php?B$@4it=11");
+die (); 
+}
+
 //compare password and the result
 $count = 0;
 if ($password == $cryptedPassword && $password != null) {$count = 1;}

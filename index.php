@@ -269,6 +269,7 @@ if (isset($_SESSION['myusername']))
 				else if ($errno == 8) { echo "Your password has been reset please log in";} 
 				else if ($errno == 9) { echo "Your account has been confirmed please log in to continue.";} 
 				else if ($errno == 10) { echo "Your password has been reset please log in to continue.";} 
+				else if ($errno == 11) { echo "You have not created an account with the phone number you provided. Please sign up below.";} 
 				?></p></td></tr></table>
 			</div>
 		</div>
