@@ -19,12 +19,14 @@ function update_table($option_name, $userid, $jobid){
 	
 	while ($content = mysql_fetch_assoc($contents)){
 		$content_id = $content["id"];
-		$cat_id = $option_name."_".$content_id; 
-		$input = $_POST[$cat_id];
-		if ($input){ 
-			$query = $query . "('".$userid."', '".$content_id."', '".$jobid."','') ,"; 
-			$num_updates = $num_updates + 1; 
-		} 
+		$cat_id = $option_name."_".$content_id;
+		if (isset($_POST[$cat_id])){
+			$input = $_POST[$cat_id];
+			if ($input){ 
+				$query = $query . "('".$userid."', '".$content_id."', '".$jobid."','') ,"; 
+				$num_updates = $num_updates + 1; 
+			} 
+		}
 	}
 
 	$query = substr($query, 0,-1);

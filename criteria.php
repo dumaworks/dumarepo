@@ -1,42 +1,46 @@
 <?
 include "connect.php";
-$jid = null; 
 
-if (isset($_GET["jid"])){
-		$jid = $_GET["jid"];
-	}
+	$jid = -1; 
+
+	if (isset($_GET["jid"])){
+			$jid = $_GET["jid"];
+		}
 function print_body($category, $userid){
-if (isset($_GET["jid"])){
-		$jid = $_GET["jid"];
-	}
-if ($jid) {
-	echo "<tbody>";
-		$u_table_name = "jobs_".$category; 
-		$contents = mysql_query("SELECT * FROM $category") or die (mysql_error());
-		$given = mysql_query("SELECT * FROM $u_table_name WHERE user_id = $userid AND job_id = $jid") or die (mysql_error());
-		$selected_items = array(); 
-		while($given_item = mysql_fetch_assoc($given)){
-			$item_index = $given_item["skill_id"];
-			$selected_items[$item_index] = "1";
+	$jid = -1; 
+
+	if (isset($_GET["jid"])){
+			$jid = $_GET["jid"];
 		}
-		while ($content = mysql_fetch_assoc($contents)){
-		echo "
-			<tr>
-				<td>";
-					$content_name = $content["name"]; 
-					$content_id = $content["id"]; 
-					$cat_name = $category."_".$content_id; 
-					
-					echo "<input type=\"checkbox\" name=\"$cat_name\"";
-					if (isset($selected_items[$content_id])){ echo " CHECKED ";}
-					echo " value=\"1\" />"; 
-					echo " $content_name "; 
-					echo "
-				</td>
-			</tr>";
+
+	if ($jid >= 0) {
+		echo "<tbody>";
+			$u_table_name = "jobs_".$category; 
+			$contents = mysql_query("SELECT * FROM $category") or die (mysql_error());
+			$given = mysql_query("SELECT * FROM $u_table_name WHERE user_id = $userid AND job_id = $jid") or die (mysql_error());
+			$selected_items = array(); 
+			while($given_item = mysql_fetch_assoc($given)){
+				$item_index = $given_item["skill_id"];
+				$selected_items[$item_index] = "1";
+			}
+			while ($content = mysql_fetch_assoc($contents)){
+			echo "
+				<tr>
+					<td>";
+						$content_name = $content["name"]; 
+						$content_id = $content["id"]; 
+						$cat_name = $category."_".$content_id; 
+						
+						echo "<input type=\"checkbox\" name=\"$cat_name\"";
+						if (isset($selected_items[$content_id])){ echo " CHECKED ";}
+						echo " value=\"1\" />"; 
+						echo " $content_name "; 
+						echo "
+					</td>
+				</tr>";
+			}
+			echo "</tbody>"; 
 		}
-		echo "</tbody>"; 
-	}
 }
 ?>
 <!DOCTYPE html>

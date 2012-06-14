@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?include "connect.php";?><!DOCTYPE html>
 <html lang="en">
   <head>
     <?include "signup_header.php"?>
@@ -22,67 +22,35 @@
 					</div>
 				</div>
 			</div>
-			<form action="welcome.php" method="post">
+			<form action="process_top10.php" method="POST">
 				<div class="row" style="margin-left: 0px";>
 					<div class="span16">
 						<div class="row" style="margin-left: 0px";>
 						
 						<table width="200px" style="margin-bottom: 5px; width: 150px;">
 							<tbody>
-								<div class="img">
-  <img src="images/socialweb.png" alt="social web" height="375px"align="right"valign="top" style="margin-top:-60px"/></img>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 1 </td>
-									<td width="40%"> <input class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input>
-</td>
+								<div class="img">  <img src="images/socialweb.png" alt="social web" height="375px"align="right"valign="top" style="margin-top:-60px"/></img>
+								<?$index = 1; 
+								$con_data = mysql_query ("SELECT * FROM `user_connections` WHERE `user_id` = $userid LIMIT 0 , 30 ");
 
-								</tr>
+								while ($index <= 10) {
+								$con_array = mysql_fetch_array($con_data); 
+								$cnm = null; 
+								$cnp = null; 
+								
+								if ($con_array != null) {
+									$cnm = $con_array["connection_name"];
+									$cnp = $con_array["connection_phone"];
+									}
+								?>
 								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 2 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
+									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > <?echo "$index";?> </td>
+									<td width="40%"> <input class="input-medium" style="height: 15px;"type="text" name = "full_name<?echo ($index);?>"
+									placeholder="Full Name " <?if ($cnm != null) {echo "value=\"$cnm\"";}?> > </input></td>
+									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" name = "phone_number<?echo ($index);?>" 
+									placeholder="Phone Number" <?if ($cnp != null) {echo "value=\"$cnp\"";}?>> </input></td>
 								</tr>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 3 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
-								</tr>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 4 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
-								</tr>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 5 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
-								</tr>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 6 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
-								</tr>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 7 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
-								</tr>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 8 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
-								</tr>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 9 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
-								</tr>
-								<tr>
-									<td width="10%"align="right" valign="middle" height="100%" style="vertical-align:middle;" > 10 </td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Full Name"> </input></td>
-									<td width="40%"> <input  class="input-medium" style="height: 15px;"type="text" placeholder="Phone Number"> </input></td>
-								</tr>
+								<? $index++; } ?>
 									
 							</tbody>
 						</table>
