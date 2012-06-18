@@ -281,7 +281,7 @@ if (isset($_SESSION['myusername']))
 					<div class="span8" height="450px" align="left" <style="text-align:center;">
 					<div class="glow" style="margin-top: 90px; margin-left: 50px; line-height: 40px; vertical-align: middle;"> Revolutionizing <br> how people find jobs </div>
 					<p class="slogan" style="margin-left: 50px; margin-top: 10px;">Una ujuzi? <br> Una connections na unataka kuzi-expand?</br> Poa! We'll send you free SMS job alerts. <br> Kazi pap! </br></p>
-				<form action="process_create.php" method="POST">
+				<form action="learn.php" method="POST">
 					<div class="span8" style="margin-left: 50px; margin-top: 7px;" align="left"> <button class="btn large orange" style="margin-top: 15px;">Learn More!</button> </div>
 					</div>
 					<div class = "span8" style="margin-top: 30px;">
