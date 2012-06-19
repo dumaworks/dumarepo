@@ -6,8 +6,6 @@ $rows = mysql_num_rows ($con_data);
 while ($con_array = mysql_fetch_array($con_data)) {
 	$cnm = $con_array["connection_name"];
 	$cnp = $con_array["connection_phone"];
-echo "name: $cnm .. phone: $cnp </br>"; 
-
 } 
 
 $index = 1; 
@@ -23,20 +21,18 @@ while ($index <= 10) {
 	AND `connection_phone` = '$con_phone'
 	LIMIT 0 , 30"); 
 	
-	if (mysql_num_rows($exists) == 0) {
-		if (($con_name != null) && ($con_phone != null)){ 
-			echo "$index is $con_name  : $con_phone </br> "; 
-			mysql_query ("INSERT INTO `dumaremote`.`user_connections` (
-			`user_id` ,
-			`connection_name` ,
-			`connection_phone` ,
-			`connection_id`
-			)
-			VALUES (
-			'$userid', '$con_name', '$con_phone', NULL
-			);"); 
-			}
-	}
+	if ((mysql_num_rows($exists) == 0) && ($con_name != null) && ($con_phone != null)) {
+		mysql_query ("INSERT INTO `dumaremote`.`user_connections` (
+		`user_id` ,
+		`connection_name` ,
+		`connection_phone` ,
+		`connection_id`
+		)
+		VALUES (
+		'$userid', '$con_name', '$con_phone', NULL
+		);"); 
+
+		}
 	$index++;	 
 }  
 
