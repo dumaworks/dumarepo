@@ -302,46 +302,47 @@ if (isset($_SESSION['myusername']))
 							$given_terms= $_GET["tm*"];
 							}
 					?>
-					<form action="process_create.php" method="POST" class="pull-right">	
-						<table style="margin-left:45px;" width="350px">
-							<thead>
-								<tr> 
-									<td> <p class="glow_small"> New to DUMA? </p></td>
-								</tr> 
-							</thead>
-							<tbody>
-								<tr>
-									<td> <input class=<?if($error%10){echo"\"large\"";}else{echo"\"input-xlarge \"";} if($given_name){ echo "value=\"$given_name\""; } else {echo "value = \" \"";}?> type="text" id="FN" name="name"> </input>
-									<?if($error%10){echo "<span class=\"help-inline\" style=\"color:red\">Name field cannot be empty</span>";}?>
-									</td>
-									
-								</tr>
-								<tr>
-									<td> <input class=<?if($error%10000 >= 10){echo"\"large\"";}else{echo"\"input-xlarge \"";} if($given_phone){ echo "value=\"$given_phone\""; } else {echo "value = \" \"";}?> type="text" id="PN" name="phone"> </input>
-									<?if($error%100 >= 10){echo "<span class=\"help-inline\" style=\"color:red\">Phone Number field cannot be empty</span>";}?>
-									<?if($error%1000 >= 100){echo "<span class=\"help-inline\" style=\"color:red\">Phone provided is already in use</span> 
-										<tr><td><a href=\"forgot.php\" style=\"color:blue; decoration:underline;\">Forgot password?</a></td></tr>";}?>
-									<?if($error%10000 >= 1000){echo "<span class=\"help-inline\" style=\"color:red\">Invalid Phone Number</span>";}?>
-									</td>
-								</tr>
-								<tr>
-									<td>
-									<input class=<?if($error%100000000 >= 10000){echo"\"large\"";}else{echo"\"input-xlarge \"";}?> type="text" name="pin1" id="fakepassword1" value="Pin" onfocus="pwdFocus1()"></input>
-									<input class=<?if($error%100000000 >= 10000){echo"\"large\"";}else{echo"\"input-xlarge \"";}?> style="display: none" type="password" name="pin1" id="password1" value="" onblur="pwdBlur1()"></input>
-									<? if($error%100000 >= 10000){echo "<span class=\"help-inline\" style=\"color:red\">Please provide a 4 digit pin</span>";} 
-										else if ($error%1000000 >= 100000){echo "<span class=\"help-inline\" style=\"color:red\">The Pin Must have Four Digits </span>";}
-										else if ($error%10000000 >= 1000000){echo "<span class=\"help-inline\" style=\"color:red\">The passwords you provided do not match </span>";}
-										?>
-									</td>
-								</tr>
-								<tr>
-									<td> 
-									
-									<input class=<?if($error%100000000 >= 10000000){echo"\"large\"";}else{echo"\"input-xlarge \"";}?> type="text" name="pin2" id="fakepassword2" value="Re-Enter Pin" name="pin2" onfocus="pwdFocus2()"></input>
-									<input class=<?if($error%100000000 >= 10000000){echo"\"large\"";}else{echo"\"input-xlarge \"";}?> style="display: none" type="password" name="pin2" id="password2" value="" onblur="pwdBlur2()"></input>
-									<?if($error%100000000 >= 10000000){echo "<span class=\"help-inline\" style=\"color:red\">Please confirm your pin</span>";}?>
-									</td>
-								</tr>
+				</form>
+				<form action="process_create.php" method="POST" class="pull-right">	
+					<table style="margin-left:45px;" width="350px">
+						<thead>
+							<tr> 
+								<td> <p class="glow_small"> New to DUMA? </p></td>
+							</tr> 
+						</thead>
+						<tbody>
+							<tr>
+								<td> <input class=<?if($error%10){echo"\"large\"";}else{echo"\"input-xlarge \"";} if($given_name){ echo "value=\"$given_name\""; } else {echo "value = \" \"";}?> type="text" id="FN" name="name"> </input>
+								<?if($error%10){echo "<span class=\"help-inline\" style=\"color:red\">Name field cannot be empty</span>";}?>
+								</td>
+								
+							</tr>
+							<tr>
+								<td> <input class=<?if($error%10000 >= 10){echo"\"large\"";}else{echo"\"input-xlarge \"";} if($given_phone){ echo "value=\"$given_phone\""; } else {echo "value = \" \"";}?> type="text" id="PN" name="phone"> </input>
+								<?if($error%100 >= 10){echo "<span class=\"help-inline\" style=\"color:red\">Phone Number field cannot be empty</span>";}?>
+								<?if($error%1000 >= 100){echo "<span class=\"help-inline\" style=\"color:red\">Phone provided is already in use</span> 
+									<tr><td><a href=\"forgot.php\" style=\"color:blue; decoration:underline;\">Forgot password?</a></td></tr>";}?>
+								<?if($error%10000 >= 1000){echo "<span class=\"help-inline\" style=\"color:red\">Invalid Phone Number</span>";}?>
+								</td>
+							</tr>
+							<tr>
+								<td>
+								<input class=<?if($error%100000000 >= 10000){echo"\"large\"";}else{echo"\"input-xlarge \"";}?> type="text" name="pin1" id="fakepassword1" value="Pin" onfocus="pwdFocus1()"></input>
+								<input class=<?if($error%100000000 >= 10000){echo"\"large\"";}else{echo"\"input-xlarge \"";}?> style="display: none" type="password" name="pin1" id="password1" value="" onblur="pwdBlur1()"></input>
+								<? if($error%100000 >= 10000){echo "<span class=\"help-inline\" style=\"color:red\">Please provide a 4 digit pin</span>";} 
+									else if ($error%1000000 >= 100000){echo "<span class=\"help-inline\" style=\"color:red\">The Pin Must have Four Digits </span>";}
+									else if ($error%10000000 >= 1000000){echo "<span class=\"help-inline\" style=\"color:red\">The passwords you provided do not match </span>";}
+									?>
+								</td>
+							</tr>
+							<tr>
+								<td> 
+								
+								<input class=<?if($error%100000000 >= 10000000){echo"\"large\"";}else{echo"\"input-xlarge \"";}?> type="text" name="pin2" id="fakepassword2" value="Re-Enter Pin" name="pin2" onfocus="pwdFocus2()"></input>
+								<input class=<?if($error%100000000 >= 10000000){echo"\"large\"";}else{echo"\"input-xlarge \"";}?> style="display: none" type="password" name="pin2" id="password2" value="" onblur="pwdBlur2()"></input>
+								<?if($error%100000000 >= 10000000){echo "<span class=\"help-inline\" style=\"color:red\">Please confirm your pin</span>";}?>
+								</td>
+							</tr>
 <tr>
 <td>
 <table style="margin-left:0px;margin-bottom: 0px;width:950px;">
