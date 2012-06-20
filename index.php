@@ -365,7 +365,7 @@ if (isset($_SESSION['myusername']))
 </tr>
 
 								<tr>
-									<td> <button class="btn large orange" type="submit">Karibu!</button></td>
+									<td> <button class="btn large orange" type="submit">Karibu Sana!</button></td>
 								</tr>
 
 
