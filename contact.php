@@ -18,7 +18,7 @@
 							<td style="padding:5px;font-family: 'Trebuchet MS', sans-serif; text-align: center; font-weight: old; color:#444444; font-size: 25px; line-height: 20px;"> Email Address </td>
 </tr>
 <tr>
-<td style="padding:5px;font-family: 'Trebuchet MS', sans-serif; text-align: center; font-weight: lighter; color:#444444; font-size: 20px; line-height: 20px;"> dumaworks@gmail.com</td></tr>
+<td style="padding:5px;font-family: 'Trebuchet MS', sans-serif; text-align: center; font-weight: lighter; color:#444444; font-size: 20px; line-height: 20px;"> DumaWorks@gmail.com</td></tr>
 <tr></tbody>
 						</table>
 
