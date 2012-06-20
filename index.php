@@ -348,11 +348,13 @@ if (isset($_SESSION['myusername']))
 <tr>
 <td>
 <table style="margin-left:0px;margin-bottom: 0px;width:950px;">
+
 							<tbody>
 <tr>
 
 <td style="font-size:13px;font-weight:lighter;font-family: 'Lucida Grande', sans-serif;color:#444444;"> 
 <input type="checkbox" name="terms" <?if ($given_terms == "terms") {echo "checked=\"yes\"";}?>value="terms"/> I agree to DUMA's <a href="terms.php" style="font-size:13px;font-weight:lighter;font-family: 'Lucida Grande', sans-serif;color:#008AE6;margin-left: 0px;  margin-bottom: 5px;"> Terms of Use </a> 
+
 <? if($given_terms == null){echo "<span class=\"help-inline\" style=\"color:red\">Please agree to terms and conditions</span>";} ?>
 </td>
 </tr>
@@ -363,7 +365,7 @@ if (isset($_SESSION['myusername']))
 </tr>
 
 								<tr>
-									<td> <button class="btn large orange" type="submit">Join Today!</button></td>
+									<td> <button class="btn large orange" type="submit">Karibu!</button></td>
 								</tr>
 
 
