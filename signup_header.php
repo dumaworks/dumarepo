@@ -149,7 +149,7 @@
 					<div class="span16">
 						<div class="row">
 							<div class="span8">
-							  <a href="index.php"><img src="images/dumalogo.png" height="50px"> </img></a>
+							  <a href="index.php"><img src="images/dumalogo2.png" height="60px"> </img></a>
 							 </div>
 							 <div class="span8">
 								  
