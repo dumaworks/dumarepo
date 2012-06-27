@@ -7,8 +7,8 @@
 			<div class="row" style="margin-left: 0px";>
 				<div class="span16">
 					<div class="row " style="margin-left: auto; margin-right: auto; margin-bottom: 0px">
-						<div class="span15" style="margin-top:25px;margin-bottom: 0px; margin-left: auto; margin-right: auto; ">
-						<h4 class="glow" style="font-family: 'Lucida Grande', sans-serif; text-align: center; width: 100%; font-size: 40px; font-weight: lighter; color:#444444; "> &nbsp; About</h4>
+						<div class="span15" style="margin-top:0px;margin-bottom: 0px; margin-left: auto; margin-right: auto; ">
+						<h4 class="glow" style="font-family: 'Lucida Grande', sans-serif; text-align: center; width: 100%; font-size: 20px; font-weight: lighter; color:#444444; "> &nbsp; </h4>
 						</div>
 						
 						<div class="span15" style="margin-top:30px; margin-bottom: 0px; margin-left:auto; margin-right: auto;align:center;">
