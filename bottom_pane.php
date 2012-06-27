@@ -1,10 +1,10 @@
-<div class="bottom_pane">
+<div class="bottom_pane" style="width:1000px">
 	<div class="span17">
 	</div>
 	<div class="row">
 		<div class="span15 offset3">
 			<div class="row">
-				<div class="span12">
+				<div class="span12 offset3">
 					<table width="100%" style="text-align:center;">
 						<tbody>
 							<tr width="100%">

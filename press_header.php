@@ -87,7 +87,7 @@
 		.content {
 		background-image: url(images/background.png);
 		background-color: #eee;
-		height: 1050px; 
+		height: 1225px; 
 		}
 		.bottom_pane {
 		background-color: #fff;
