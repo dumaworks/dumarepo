@@ -12,7 +12,7 @@
 									<a href="about.php"> About </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 									<a href="press.php"> Press </a> &nbsp; &nbsp; &nbsp; &nbsp;  
 									<a href="mission.php"> Mission </a> &nbsp; &nbsp; &nbsp; &nbsp; 
-									<a href="contact.php"> Contact Us</a> &nbsp; &nbsp; &nbsp; &nbsp; 
+									<a href="contact2.php"> Contact Us</a> &nbsp; &nbsp; &nbsp; &nbsp; 
 									<a href="http://doyouduma.blogspot.com/view/classic"> Blog </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 									<a href="terms.php"> Terms and Privacy</a> &nbsp; &nbsp; &nbsp; &nbsp; 
 								</td>

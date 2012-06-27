@@ -1,76 +1,51 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <?include "header.php"?>
+<html>
+<head>
+    <?include "contact2_header.php"?>
     <div class="container">
 		<div class="content">
 			<div class="row" style="margin-left: 0px";>
 				<div class="span16">
 					<div class="row " style="margin-left: auto; margin-right: auto; margin-bottom: 0px">
-						<div class="span15" style="margin-top:25px;margin-bottom: 0px; margin-left: auto; margin-right: auto; ">
-						<h4 class="glow" style="font-family: 'Trebuchet MS', sans-serif; text-align: center; width: 100%; font-size: 40px; font-weight: lighter; color:#444444; "> &nbsp; Contact Us</h4>
+						<div class="span15" style="margin-top:0px;margin-bottom: 0px; margin-left: auto; margin-right: auto; ">
+						<h4 class="glow" style="font-family: 'Lucida Grande', sans-serif; text-align: center; width: 100%; font-size: 20px; font-weight: lighter; color:#444444; "> &nbsp; </h4>
 						</div>
-						
-						<table width="400" border="0" align="center" cellpadding="3" cellspacing="1">
-<tr>
-<td><strong>Contact Form </strong></td>
-</tr>
-</table>
+<meta charset="utf-8" />
+<title>CSS3 Contact Form</title>
 
-<table width="400" border="0" align="center" cellpadding="0" cellspacing="1">
-<tr>
-<td><form name="form1" method="post" action="send_contact.php">
-<table width="100%" border="0" cellspacing="1" cellpadding="3">
-<tr>
-<td width="16%">Subject</td>
-<td width="2%">:</td>
-<td width="82%"><input name="subject" type="text" id="subject" size="50"></td>
-</tr>
-<tr>
-<td>Detail</td>
-<td>:</td>
-<td><textarea name="detail" cols="50" rows="4" id="detail"></textarea></td>
-</tr>
-<tr>
-<td>Name</td>
-<td>:</td>
-<td><input name="name" type="text" id="name" size="50"></td>
-</tr>
-<tr>
-<td>Email</td>
-<td>:</td>
-<td><input name="customer_mail" type="text" id="customer_mail" size="50"></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td><input type="submit" name="Submit" value="Submit"> <input type="reset" name="Submit2" value="Reset"></td>
-</tr>
-</table>
-</form>
-</td>
-</tr>
-</table>
-							
-						</div>
-						
-					</div>
-				</div>
-			</div>
-				<div class="row" style="margin-left: 0px";>
-					<div class="span16">
-						<div class="row" style="margin-left: 0px";>
-						
-						
-						</div>
-					</div>
-				</div>
-			
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+
+<body>
+<br>
+</br>
+<br>
+</br>
+<div id="contact" style="margin-left:54px">
+	<form action="email.php" method="post">
+		<fieldset>
+			<label for="name">Name:</label>
+			<input type="text" id="name" placeholder="Enter your full name" />
+
+			<label for="email">Email:</label>
+			<input type="email" id="email" placeholder="Enter your email address" />
+
+			<label for="message">Message:</label>
+			<textarea id="message" placeholder="What's on your mind?"></textarea>
+
+			<input type="submit" value="Send message" />
+
+		</fieldset>
+	</form>
+</div>
 		</div>
+			</div>
+				</div>
+					</div>
 		<?include "bottom_pane.php"?>
 		<footer>
 			<p>&copy; Duma 2011</p>
 		</footer>
     </div> 
-  </body>
+</body>
 </html>
