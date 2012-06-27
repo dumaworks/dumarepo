@@ -8,7 +8,7 @@
 				<div class="span16">
 					<div class="row " style="margin-left: auto; margin-right: auto; margin-top: 45px; margin-bottom: 0px">
 						<div class="row" style="margin-left: 30px";>
-						<iframe width="592" height="333" src="http://www.youtube.com/embed/GUp3Gg_qjSk" frameborder="0" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="http://www.youtube.com/embed/GUp3Gg_qjSk" frameborder="0" allowfullscreen></iframe>
 						</div>
 						<div class="span15" style="margin-top:30px; margin-bottom: 0px; margin-left:auto; margin-right: auto;align:center;">
 							<table style="align:center;margin-top:-20px;margin-left:30px;margin-bottom: 0px; width: 780px;">
