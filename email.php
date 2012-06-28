@@ -8,12 +8,12 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message']))
     $message = $_POST['message'];
 
     if ($name && $email && $message) {
-        $to = $email;
+        $to = "dumaworks@gmail.com";
         $subject = 'Message from: ' .$name;
         
-        $headers = 'From: DUMA Team <dumaworks@gmail.com>' . "\r\n";
+        $headers = 'From: DUMA Team <'.$email.'>' . "\r\n";
         $headers .= 'Cc: ' . "\r\n";
-        $headers .= 'Bcc: qtoeric@gmail.com' . "\r\n";
+        //$headers .= 'Bcc: qtoeric@gmail.com' . "\r\n";
 
         // Mail it
 
