@@ -35,6 +35,10 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message']))
 else {
     $feedback = "1";
 }
-
-header("location:contact_us.php?B$@4it=$feedback");
+if ($feedback) {
+    header("location:contact_us.php?B$@4it=$feedback");
+}
+else {
+    header("location:contact.php");
+}
 ?>
