@@ -1,23 +1,44 @@
 <?
-$email = "cablauvelt@gmail.com";
-$to = $email;
-$subject = 'Subject of My Email';
-$message="Message of My Email";
+$feedback = ""; 
 
-$headers .= 'From: DUMA Team <dumaworks@gmail.com>' . "\r\n";
-$headers .= 'Cc: ' . "\r\n";
-$headers .= 'Bcc: qtoeric@gmail.com' . "\r\n";
+if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message'])) {
 
-// Mail it
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
 
-$result = mail($to, $subject, $message, $headers);
+    if ($name && $email && $message) {
+        $to = "dumaworks@gmail.com";
+        $subject = 'Message from: ' .$name;
+        
+        $headers = 'From: '.$name.'<'.$email.'>' . "\r\n";
+        $headers .= 'Cc: ' . "\r\n";
+        //$headers .= 'Bcc: qtoeric@gmail.com' . "\r\n";
 
-if($result)
-{
-echo "Winning! Email sent!";
+        // Mail it
+
+        $result = mail($to, $subject, $message, $headers);
+        
+        if($result)
+        {
+            header("location:contact.php");
+        }
+        else
+        {
+        $feedback = "2";
+        }
+    }
+    else {
+        $feedback = "1";
+    }
 }
-else
-{
-echo "Fail! Email Not sent :( ";
+else {
+    $feedback = "1";
+}
+if ($feedback) {
+    header("location:contact_us.php?B$@4it=$feedback");
+}
+else {
+    header("location:contact.php");
 }
 ?>
