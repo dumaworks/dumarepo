@@ -10,7 +10,7 @@
 							<tr width="100%">
 								<td width="100%"> 
 									<a href="about.php"> About </a> &nbsp; &nbsp; &nbsp; &nbsp;
-									<a href="team.php"> Team </a> &nbsp; &nbsp; &nbsp; &nbsp; 
+									<a href="team.php"> The Team </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 									<a href="press.php"> Press </a> &nbsp; &nbsp; &nbsp; &nbsp;  
 									<a href="mission.php"> Mission </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 									<a href="contact_us.php"> Contact Us</a> &nbsp; &nbsp; &nbsp; &nbsp; 
