@@ -22,6 +22,17 @@
 </br>
 
 
+<? if (isset($_GET["B$@4it"])){?>
+		<div class="row" style="width:100%;">
+			<a class="close" data-dismiss="alert" href="#">&times;</a>
+				<?php $errno = $_GET["B$@4it"];
+				if ($errno == 1) { echo "Please fill in all the fields.";} 
+				else if ($errno == 2) { echo "Error. Your message has not been sent. Please try again.";} 
+				
+				?></p></td></tr></table>
+			</div>
+		</div>
+        <?}?>
 <div id="contact" style="margin-left:54px; <? if (isset($_GET["B$@4it"])){ echo "margin:3px auto;"; }?>">
 	<form action="email.php" method="post">
 		<fieldset>
@@ -33,29 +44,6 @@
 
 			<label for="message">Message:</label>
 			<textarea id="message" name = "message" placeholder="What's on your mind?"></textarea>
-
-<? if (isset($_GET["B$@4it"])){?>
-		<!--<div class="row" style="width:100%;">
-			<div class="alert-message warning" style="background-color:orange; margin-left:150px; height: 40px;">
-				<table bgcolor="orange"><tr><td><p style="color:white;"> 
-				<?php $errno = $_GET["B$@4it"];
-				if ($errno == 1) { echo "Please fill in all the fields.";} 
-				else if ($errno == 2) { echo "Error. Your message has not been sent. Please try again.";} 
-				
-				?></p></td></tr></table>
-			</div>
-		</div>-->
-		
-		<div class="alert fade in" style="padding: 8px 35px 8px 14px;
-margin-bottom: 18px;
-color: #FFFFFF;
-background-color: #FF8C00;
-border: 1px solid #FF8C00;
--webkit-border-radius: 4px;">
-            <button type="button" class="close" data-dismiss="alert">×</button>
-            <strong>Error!</strong> Please fill in all the fields.
-          </div>
-        <?}?>
 
 			<input type="submit" value="Send message" />
 

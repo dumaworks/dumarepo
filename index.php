@@ -232,7 +232,7 @@ if (isset($_SESSION['myusername']))
 					<div class="span16">
 						<div class="row">
 							<div class="span8">
-							  <img src="images/dumalogo.png" height="50px"> </img>
+							  <img src="images/dumalogo2.png" height="60px"> </img>
 							 </div>
 
 							 <div class="span8">
