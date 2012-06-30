@@ -378,7 +378,7 @@ if (isset($_SESSION['myusername']))
 			</div>
         </div>
       </div>
-	  <?include "bottom_pane.php"?>
+	  <?include "bottom_pane2.php"?>
       <footer>
         <p>&copy; Duma 2011</p>
       </footer>

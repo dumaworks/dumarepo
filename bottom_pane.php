@@ -9,13 +9,14 @@
 						<tbody>
 							<tr width="100%">
 								<td width="100%"> 
+									<a href="index.php"> Home </a> &nbsp; &nbsp; &nbsp; &nbsp;
 									<a href="about.php"> About </a> &nbsp; &nbsp; &nbsp; &nbsp;
 									<a href="team.php"> The Team </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 									<a href="press.php"> Press </a> &nbsp; &nbsp; &nbsp; &nbsp;  
 									<a href="mission.php"> Mission </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 									<a href="contact_us.php"> Contact Us</a> &nbsp; &nbsp; &nbsp; &nbsp; 
 									<a href="http://doyouduma.blogspot.com/view/classic"> Blog </a> &nbsp; &nbsp; &nbsp; &nbsp; 
-									<a href="terms.php"> Terms and Privacy</a> &nbsp; &nbsp; &nbsp; &nbsp; 
+									<a href="terms.php"> Terms & Privacy</a> &nbsp; &nbsp; &nbsp; &nbsp; 
 								</td>
 							</tr>
 						</tbody>

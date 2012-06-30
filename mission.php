@@ -26,7 +26,7 @@
 
 <tr>							
 									
-<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; font-weight: medium; color:#F0F0F0; font-size: 19px; line-height: 24px;"> It takes too long to hear about job openings since I &nbsp;&nbsp;&nbsp;have to rely on word-of-mouth.<br></br></td>
+<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; font-weight: medium; color:#F0F0F0; font-size: 19px; line-height: 24px;"> It takes too long to hear about job openings since I have to rely on word-of-mouth.<br></br></td>
 									
 </tr>
 
@@ -93,7 +93,7 @@
 
 <tr>							
 									
-<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; font-weight: medium; color:#F0F0F0; font-size: 19px; line-height: 24px;"> I own a business.  I have more customers than usual, so I need to hire extra labor for the day/week.<br></br></td>
+<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; font-weight: medium; color:#F0F0F0; font-size: 19px; line-height: 24px;"> I own a business, and I have more customers than usual. So I need to hire extra labor for the day/week.<br></br></td>
 									
 </tr>
 
@@ -125,7 +125,7 @@
 
 <tr>							
 									
-<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; font-weight: medium; color:#F0F0F0; font-size: 19px; line-height: 24px;"> I live in a rural area, &nbsp;&nbsp;&nbsp;so I have to go to town to find workers, which is expensive and takes time.<br></br></td>
+<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; font-weight: medium; color:#F0F0F0; font-size: 19px; line-height: 24px;"> I live in a rural area, so I have to go to town to find workers, which is expensive and takes time.<br></br></td>
 									
 </tr>
 
