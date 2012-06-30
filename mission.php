@@ -18,7 +18,7 @@
 			</table>
 
 <div class="span4">
-								<table border="0" cellspacing="0" height="155px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
+								<table border="0" cellspacing="0" height="190px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
 									<tbody>
 								
 		<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; border-bottom-style: solid; border-bottom-width: 3px;font-weight: bold; color:#444444; font-size: 24px; line-height: 24px;"> The Problem</td>
@@ -33,7 +33,7 @@
 									</tbody>
 								</table>
 							<div class="row">
-								<table style="height:150px;width:220px;vertical-align:middle; margin-left:40px;background-color: #444444;">
+								<table style="height:245px;width:220px;vertical-align:middle; margin-left:40px;background-color: #444444;">
 									<tbody>
 								
 <tr>									<td valign="middle" style="vertical-align:center;align:center"> 
@@ -53,7 +53,7 @@
 </div>
 						
 							<div class="span4">
-								<table border="0" cellspacing="0" height="155px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
+								<table border="0" cellspacing="0" height="190px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
 									<tbody>
 								
 		<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; border-bottom-style: solid; border-bottom-width: 3px;font-weight: bold; color:#444444; font-size: 24px; line-height: 24px;"> The Problem</td>
@@ -68,7 +68,7 @@
 									</tbody>
 								</table>
 							<div class="row">
-								<table style="height:150px;width:220px;vertical-align:middle; margin-left:40px;background-color: #444444;">
+								<table style="height:245px;width:220px;vertical-align:middle; margin-left:40px;background-color: #444444;">
 									<tbody>
 								
 <tr>									<td valign="middle" style="vertical-align:center;align:center"> 
@@ -86,7 +86,7 @@
 								</table>
 </div>	
 </div><div class="span4">
-								<table border="0" cellspacing="0" height="155px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
+								<table border="0" cellspacing="0" height="190px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
 									<tbody>
 								
 		<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; border-bottom-style: solid; border-bottom-width: 3px;font-weight: bold; color:#444444; font-size: 24px; line-height: 24px;"> The Problem</td>
@@ -100,7 +100,7 @@
 									</tbody>
 								</table>
 							<div class="row">
-								<table style="height:150px;width:220px;vertical-align:middle; margin-left:40px;background-color: #444444;">
+								<table style="height:245px;width:220px;vertical-align:middle; margin-left:40px;background-color: #444444;">
 									<tbody>
 								
 <tr>									<td valign="middle" style="vertical-align:center;align:center"> 
@@ -118,7 +118,7 @@
 								</table>
 </div>	
 </div><div class="span4">
-								<table border="0" cellspacing="0" height="155px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
+								<table border="0" cellspacing="0" height="190px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
 									<tbody>
 								
 		<td  style="font-family: 'Lucida Grande', sans-serif; text-align: center; border-bottom-style: solid; border-bottom-width: 3px;font-weight: bold; color:#444444; font-size: 24px; line-height: 24px;"> The Problem</td>
@@ -132,7 +132,7 @@
 									</tbody>
 								</table>
 							<div class="row">
-								<table style="height:150px;width:220px;vertical-align:middle; margin-left:40px;background-color: #444444;">
+								<table style="height:245px;width:220px;vertical-align:middle; margin-left:40px;background-color: #444444;">
 									<tbody>
 								
 <tr>									<td valign="middle" style="vertical-align:center;align:center"> 
