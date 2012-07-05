@@ -22,13 +22,13 @@
 </br>
 
 
-<? if (isset($_GET["B$@4it"])){?>
-		<div class="row" style="width:100%;">
-			<a class="close" data-dismiss="alert" href="#">&times;</a>
-				<?php $errno = $_GET["B$@4it"];
-				if ($errno == 1) { echo "Please fill in all the fields.";} 
-				else if ($errno == 2) { echo "Error. Your message has not been sent. Please try again.";} 
-				
+		<? if (isset($_GET["B$@4it"])){?>
+		<div class="alert fade in" style="float:left; width: 60%; padding: 8px 35px 8px 14px; margin-bottom: 18px; color: #FFFFFF;background-color: #FF8C00;border: 1px solid #FF8C00;-webkit-border-radius: 4px;">
+            <button type="button" class="close" data-dismiss="alert">×</button>
+            <?php $errno = $_GET["B$@4it"];
+            if ($errno == 1) { echo "Please fill in all the fields.";} 
+				else if ($errno == 2) { echo "<strong>Error!</strong> Your message has not been sent. Please try again.";} 
+		
 				?></p></td></tr></table>
 			</div>
 		</div>

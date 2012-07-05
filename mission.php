@@ -17,7 +17,8 @@
    <img src= "images/mission.png" height="160px" style="margin-top:20px;margin-left:45px;" margin-top="10px" > </img>
 			</table>
 
-<div class="span4">
+
+			<div class="span4">
 								<table border="0" cellspacing="0" height="190px" style="border-left:0px;margin-left:20px;margin-bottom:10px;vertical-align:middle; background-color: #cc7733;">
 									<tbody>
 								
