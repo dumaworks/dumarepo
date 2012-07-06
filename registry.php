@@ -37,26 +37,25 @@
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> This represents the core of our service: without text messaging, we can't run a text message-based platform. Your contribution will help us help connect the unemployed to jobs.</p> <p> <b>Quantity needed: </b> 50 bundles each costing $50</td> 
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> This represents the core of our service: without text messaging, we can't run a text message-based platform! Your generous contribution will help us connect the unemployed to jobs... one text message at a time.</p> <p> <b>Quantity needed: </b> 100 bundles each costing $10</td> 
 							</tr>
 							<tr>
-						<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-<table>
-<tr><input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-	<option value="2000 miles">$250.00 USD</option>
-	<option value="4000 miles">$500.00 USD</option>
-	<option value="6000 miles">$750.00 USD</option>
-	<option value="8000 miles">$1,000.00 USD</option>
-	<option value="All the way!">$1,750.00 USD</option>
-</select> </tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
+								<td style="padding-left:25px;padding-right:25px;">
+									<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+									<input type="hidden" name="cmd" value="_s-xclick">
+									<input type="hidden" name="hosted_button_id" value="VFTLMCK74QGBL">
+									<table>
+										<tr><input type="hidden" name="on0" value="Bundles"><select name="os0">
+											<option value="1 bundle">$10.00 USD</option>
+											<option value="2 bundles">$20.00 USD</option>
+											<option value="3 bundles">$30.00 USD</option>
+											<option value="4 bundles">$40.00 USD</option>
+											<option value="5 bundles">$50.00 USD</option>
+										</select> </tr>
+									</table>
+									<input type="hidden" name="currency_code" value="USD">
 									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
-
-</form>
+									</form>
 
 
 								</td>
@@ -86,20 +85,22 @@
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> We were toying around with the idea of eating 1 square meal of rice and beans each day. And then we spoke with our parents...you can imagine the reception. It's only a dollar or two per meal, unless we get really crazy and order a Coke. Please feed us!</p> <p> <b>Quantity needed: </b> 3 months of food each costing $250</td>  
 							</tr>
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+							<td style="padding-left:25px;padding-right:25px;">
+								<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="NF7U8NC4EG4GN">
+<table>
+<tr><input type="hidden" name="on0" value="Meals"><select name="os0">
+	<option value="18 meals">$50.00 USD</option>
+	<option value="36 meals">$100.00 USD</option>
+	<option value="54 meals">$150.00 USD</option>
+	<option value="72 meals">$200.00 USD</option>
+	<option value="90 meals">$250.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>					
 								</td>
 							</tr>										
 							<tr>
@@ -135,20 +136,22 @@
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Your contribution will give us a good night's sleep every night. You'll also help us live in a safe, gated community with a wonderful host family who will take the best care of us. Come visit us in Kenya!</p> <p> <b>Quantity needed: </b> 3 months of rent each costing $250</td>   
 							</tr>
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+							<td style="padding-left:25px;padding-right:25px;">
+<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="JSZXJUWH2W268">
+<table>
+<tr><input type="hidden" name="on0" value="Nights"><select name="os0">
+	<option value="6 nights">$50.00 USD</option>
+	<option value="12 nights">$100.00 USD</option>
+	<option value="18 nights">$150.00 USD</option>
+	<option value="24 nights">$200.00 USD</option>
+	<option value="30 nights">$250.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>						
 								</td>
 							</tr>										
 							<tr>
@@ -179,20 +182,22 @@
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
-								</td>
+								
+									<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="QYT4993FTG25N">
+<table>
+<tr><input type="hidden" name="on0" value="Pills"><select name="os0">
+	<option value="6 pills">$10.00 USD</option>
+	<option value="12 pills">$20.00 USD</option>
+	<option value="18 pills">$30.00 USD</option>
+	<option value="24 pills">$40.00 USD</option>
+	<option value="30 pills">$50.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>
 							</tr>										
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
@@ -224,20 +229,20 @@
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
-								</td>
+<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VVHPS2TKC9A4N">
+<table>
+<tr><input type="hidden" name="on0" value="Weeks"><select name="os0">
+	<option value="2 weeks">$100.00 USD</option>
+	<option value="4 weeks">$200.00 USD</option>
+	<option value="6 weeks">$300.00 USD</option>
+	<option value="8 weeks">$400.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>								</td>
 							</tr>										
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
@@ -268,19 +273,21 @@
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SBBTLQ73R7Y5S">
+<table>
+<tr><input type="hidden" name="on0" value="Workers"><select name="os0">
+	<option value="1 outreach worker">$100.00 USD</option>
+	<option value="2 outreach workers">$200.00 USD</option>
+	<option value="3 outreach workers">$300.00 USD</option>
+	<option value="4 outreach workers">$400.00 USD</option>
+	<option value="5 outreach workers">$500.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>
 								</td>
 							</tr>										
 							<tr>
@@ -318,20 +325,21 @@
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
-								</td>
+<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="TVR9HYTNML4F2">
+<table>
+<tr><input type="hidden" name="on0" value="Lawyer Fees"><select name="os0">
+	<option value="250">$250.00 USD</option>
+	<option value="500">$500.00 USD</option>
+	<option value="750">$750.00 USD</option>
+	<option value="1000">$1,000.00 USD</option>
+	<option value="1500">$1,500.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>								</td>
 							</tr>										
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
@@ -361,20 +369,21 @@
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
-								</td>
+<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="KN9RD4B3V3CZ2">
+<table>
+<tr><input type="hidden" name="on0" value="Nights"><select name="os0">
+	<option value="10 nights">$250.00 USD</option>
+	<option value="20 nights">$500.00 USD</option>
+	<option value="30 nights">$750.00 USD</option>
+	<option value="40 nights">$1,000.00 USD</option>
+	<option value="60 nights">$1,500.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>								</td>
 							</tr>										
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
@@ -411,20 +420,21 @@
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
-								</td>
+<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
+<table>
+<tr><input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
+	<option value="2000 miles">$250.00 USD</option>
+	<option value="4000 miles">$500.00 USD</option>
+	<option value="6000 miles">$750.00 USD</option>
+	<option value="8000 miles">$1,000.00 USD</option>
+	<option value="All the way!">$1,750.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>								</td>
 							</tr>										
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
@@ -454,19 +464,19 @@
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
-										<input type="hidden" name="cmd" value="_s-xclick">
-										<input type="hidden" name="hosted_button_id" value="L4WSHRPT3EDBN">
-										<input type="hidden" name="on0" value="How far can you bring us?"><select name="os0">
-											<option value="2000 miles">$250.00 USD</option>
-											<option value="4000 miles">$500.00 USD</option>
-											<option value="6000 miles">$750.00 USD</option>
-											<option value="8000 miles">$1,000.00 USD</option>
-											<option value="All the way!">$1,750.00 USD</option>
-										</select> 
-										<input type="hidden" name="currency_code" value="USD">
-									</form>		
-									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="YCHJMR3PN28X2">
+<table>
+<tr><input type="hidden" name="on0" value="Local Transportation in Nakuru"><select name="os0">
+	<option value="1 month with Moses">1 month with Moses$150.00 USD</option>
+	<option value="2 months with Moses">2 months with Moses$300.00 USD</option>
+	<option value="3 months with Moses">3 months with Moses$450.00 USD</option>
+</select> </tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
+</form>
 								</td>
 							</tr>										
 							<tr>
