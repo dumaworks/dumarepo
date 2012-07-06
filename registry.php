@@ -24,7 +24,7 @@
 			
 					<div class="span4" style="margin-top:30px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
 					
-						<table style="padding:25px;align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+						<table style="padding:25px;align:center; height:615px; width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							
@@ -37,7 +37,7 @@
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> This represents the core of our service: without text messaging, we can't run a text message-based platform! Your generous contribution will help us connect the unemployed to jobs... one text message at a time.</p> <p> <b>Quantity needed: </b> 100 bundles each costing $10</td> 
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> This represents the core of our service: without text messaging, we can't run a text message-based platform! Your generous contribution will help us connect the unemployed to jobs.</p> <p> <b>Quantity needed: </b> 100 bundles each costing $10</td> 
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -69,7 +69,7 @@
 					<td>
 					<div class="span4" style="margin-top:30px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
 					
-						<table style="padding:25px;align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+						<table style="padding:25px;align:center; width:350px;height:615px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							
@@ -118,7 +118,7 @@
 			<table style="width:900px; margin-left:auto">
 				<td>		
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:615px;background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -163,7 +163,7 @@
 				</td>
 				<td>
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px;height:615px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -210,7 +210,7 @@
 			<table style="width:900px; margin-left:auto">
 				<td>		
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; height:615px;width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -253,7 +253,7 @@
 				</td>
 				<td>
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; height:615px;width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -306,7 +306,7 @@
 			<table style="width:900px; margin-left:auto">
 				<td>		
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; height:615px;width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -350,7 +350,7 @@
 				</td>
 				<td>
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; height:615px;width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -401,7 +401,7 @@
 			<table style="width:900px; margin-left:auto">
 				<td>		
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; height:615px;width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -445,7 +445,7 @@
 				</td>
 				<td>
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; height:615px;width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -460,7 +460,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Moses is our piki piki (motorcycle) driver who we trust with our lives everyday. He listens to the Backstreet Boys and really likes talking about the tall buildings in New York. In short, DUMA doesn't run without Moses. This support will carry us along (quite literally) as we develop the company in Nakuru.</p> <p> <b>Quantity needed: </b> 3 months of travel for $150 each </td>
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Moses is our piki piki (motorcycle) driver who we trust with our lives everyday. He listens to the Backstreet Boys and really likes talking about the tall buildings in New York. In short, DUMA doesn't run without Moses. This support will carry us along (quite literally) as we establish the company.</p> <p> <b>Quantity needed: </b> 3 months of travel for $150 each </td>
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -469,9 +469,9 @@
 <input type="hidden" name="hosted_button_id" value="YCHJMR3PN28X2">
 <table>
 <tr><input type="hidden" name="on0" value="Local Transportation in Nakuru"><select name="os0">
-	<option value="1 month with Moses">1 month with Moses$150.00 USD</option>
-	<option value="2 months with Moses">2 months with Moses$300.00 USD</option>
-	<option value="3 months with Moses">3 months with Moses$450.00 USD</option>
+	<option value="1 month with Moses">$150.00 USD</option>
+	<option value="2 months with Moses">$300.00 USD</option>
+	<option value="3 months with Moses">$450.00 USD</option>
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
