@@ -483,11 +483,11 @@
 <input type="hidden" name="hosted_button_id" value="YCHJMR3PN28X2">
 <table>
 <tr><input type="hidden" name="on0" value="Local Transportation in Nakuru"><select name="os0">
-	<option value="1 week with Moses">1 week with Moses$25.00 USD</option>
-	<option value="2 weeks with Moses">2 weeks with Moses$50.00 USD</option>
-	<option value="1 month with Moses">1 month with Moses$100.00 USD</option>
-	<option value="2 months with Moses">2 months with Moses$200.00 USD</option>
-	<option value="3 months with Moses">3 months with Moses$300.00 USD</option>
+	<option value="1 week with Moses">$25.00 USD</option>
+	<option value="2 weeks with Moses">$50.00 USD</option>
+	<option value="1 month with Moses">$100.00 USD</option>
+	<option value="2 months with Moses">$200.00 USD</option>
+	<option value="3 months with Moses">$300.00 USD</option>
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
