@@ -274,7 +274,7 @@
 								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Community Outreach Workers<p></p> </td>
 							</tr>
 							<tr>
-								<td> <br> <img src="images/outreach.jpeg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
+								<td> <br> <img src="images/outreach.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
