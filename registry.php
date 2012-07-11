@@ -327,7 +327,7 @@
 								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Lawyer Fees<p></p> </td>
 							</tr>
 							<tr>
-								<td> <br> <img src="images/lawyer2.jpeg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
+								<td> <br> <img src="images/lawyer2.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
@@ -371,7 +371,7 @@
 								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Rent in Nairobi for 1 month<p></p> </td>
 							</tr>
 							<tr>
-								<td> <br> <img src="images/nairobi.jpeg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
+								<td> <br> <img src="images/nairobi.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
