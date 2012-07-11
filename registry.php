@@ -474,7 +474,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Moses is our piki piki (motorcycle) driver who we trust with our lives everyday. He listens to the Backstreet Boys and really likes talking about the tall buildings in New York. In short, DUMA doesn't run without Moses. This support will carry us along (quite literally) as we establish the company.</p> <p> <b>Quantity needed: </b> 3 months of travel for $150 each </td>
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Moses is our piki piki (motorcycle) driver who we trust with our lives everyday. He listens to the Backstreet Boys and really likes talking about the tall buildings in New York. In short, DUMA doesn't run without Moses. This support will carry us along (quite literally) as we establish the company.</p> <p> <b>Quantity needed: </b> 3 months of travel for $100 each </td>
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -483,14 +483,18 @@
 <input type="hidden" name="hosted_button_id" value="YCHJMR3PN28X2">
 <table>
 <tr><input type="hidden" name="on0" value="Local Transportation in Nakuru"><select name="os0">
-	<option value="1 month with Moses">$150.00 USD</option>
-	<option value="2 months with Moses">$300.00 USD</option>
-	<option value="3 months with Moses">$450.00 USD</option>
+	<option value="1 week with Moses">1 week with Moses$25.00 USD</option>
+	<option value="2 weeks with Moses">2 weeks with Moses$50.00 USD</option>
+	<option value="1 month with Moses">1 month with Moses$100.00 USD</option>
+	<option value="2 months with Moses">2 months with Moses$200.00 USD</option>
+	<option value="3 months with Moses">3 months with Moses$300.00 USD</option>
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
 </form>
+						
+				
 								</td>
 							</tr>										
 							<tr>
