@@ -10,7 +10,7 @@
 					<div class="row " style="margin-right: auto; margin-bottom: auto">
 						
 	<div class="span15" style="margin-top:auto; margin-bottom: 25px; margin-left:45px; margin-right: auto;align:center;">
-							<table style="background-color: #ffffff;opacity:0.8;align:center;margin-top:50px;margin-right:auto; margin-left:auto;margin-bottom: auto; width:900px;">
+							<table style="background-color: #ffffff;opacity:0.8;align:center;margin-top:40px;margin-right:auto; margin-left:auto;margin-bottom: auto; width:900px;">
 								<tbody>
 										<tr><td style="padding-left:35px;padding-bottom:0px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:15px;text-align: justify; color:#444444; font-size: 14px; line-height: 20px;"> <br>Two recent Princeton grads moving to Kenya to transform the face of hiring in the developing world? It's not the typical post-college route, but our team has been working full steam since November, through thesis, finals, and even the famous Princeton lawnparties. We already have a working software and website, a successful alpha test, community partnerships, and an enthusiastic team of mentors.  Now, all we need is <b>your support.</b> </br> 
 										<br> In September 2012, we will be shipping off to Kenya to launch DUMA's pilot test. We've raised some money through business competitions and grants, but we need your help to cover our <b>start-up costs</b> and to give us enough <b>time</b> and <b>support</b> in Kenya to get DUMA off the ground and running. With this registry, you can fund a portion (or all!) of our plane ticket, or buy us some malaria pills, or give a local Kenyan a job with DUMA as an outreach worker. </br> <br> You can also make an unspecified contribution by clicking the button below:</br></td> </tr>
@@ -36,7 +36,7 @@
 			<table style="width:900px">
 				<td>
 			
-					<div class="span4" style="margin-top:30px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
+					<div class="span4" style="margin-top:15px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
 					
 						<table style="padding:25px;align:center; height:615px; width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
