@@ -36,7 +36,7 @@
 			<table style="width:900px">
 				<td>
 			
-					<div class="span4" style="margin-top:15px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
+					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
 					
 						<table style="padding:25px;align:center; height:615px; width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
@@ -81,7 +81,7 @@
 						</table>
 					</td>
 					<td>
-					<div class="span4" style="margin-top:30px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
+					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
 					
 						<table style="padding:25px;align:center; width:350px;height:615px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
