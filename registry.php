@@ -58,8 +58,8 @@
 									<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 									<input type="hidden" name="cmd" value="_s-xclick">
 									<input type="hidden" name="hosted_button_id" value="VFTLMCK74QGBL">
-									<table style="background-color: #303030;">
-										<tr><input type="hidden" name="on0" value="Bundles"><select name="os0">
+									<table>
+										<tr style="background-color: #303030;"><input type="hidden" name="on0" value="Bundles"><select name="os0">
 											<option value="1 bundle">$10.00 USD</option>
 											<option value="2 bundles">$20.00 USD</option>
 											<option value="3 bundles">$30.00 USD</option>
