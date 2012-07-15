@@ -54,8 +54,8 @@
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> This represents the core of our service: without text messaging, we can't run a text message-based platform! Your generous contribution will help us connect the unemployed to jobs.</p> <p> <b>Quantity needed: </b> 100 bundles each costing $10</td> 
 							</tr>
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;">
-									<form style="color:#303030;" action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+								<td style="background-color: #303030;padding-left:25px;padding-right:25px;">
+									<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 									<input type="hidden" name="cmd" value="_s-xclick">
 									<input type="hidden" name="hosted_button_id" value="VFTLMCK74QGBL">
 									<table>
