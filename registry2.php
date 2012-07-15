@@ -80,13 +80,12 @@
 									</table>
 									<input type="hidden" name="currency_code" value="USD">
 									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
-									</form>
-<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="250" data-show-faces="true"></div>
-								</td>
+									</form>								</td>
 							</tr>										
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
 							</tbody>
 						</table>
 					</td>
@@ -130,6 +129,7 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>							
 							</tbody>
 						</table>
 					</td>
@@ -181,6 +181,8 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+							
 							</tbody>
 						</table>
 						</div>
@@ -226,6 +228,8 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+							
 							</tbody>
 						</table>
 						</div>
@@ -271,6 +275,8 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+							
 							</tbody>
 						</table>
 						</div>
@@ -317,6 +323,8 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+							
 							</tbody>
 						</table>
 						</div>
@@ -368,6 +376,8 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+							
 							</tbody>
 						</table>
 						</div>
@@ -412,6 +422,8 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+
 							</tbody>
 						</table>
 						</div>
@@ -463,6 +475,8 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+
 							</tbody>
 						</table>
 						</div>
@@ -510,6 +524,8 @@
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
+							<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+
 							</tbody>
 						</table>
 						</div>
