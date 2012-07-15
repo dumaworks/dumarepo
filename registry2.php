@@ -59,7 +59,8 @@
 								<td> <br> <img src="images/text.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
 							</tr>
 
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>3% funded</i></b> </td>
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>3% funded</i></b> git pull github master
+</td>
 								</br> 
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> This represents the core of our service: without text messaging, we can't run a text message-based platform! Your generous contribution will help us connect the unemployed to jobs.</p> <p> <b>Quantity needed: </b> 100 bundles each costing $10</td> 
@@ -83,8 +84,7 @@
 									</form>								</td>
 							</tr>										
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> 														<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
-</td>
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
 							</tr>
 							</tbody>
 						</table>
