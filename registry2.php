@@ -33,6 +33,10 @@
 										</form>  																</br>
 
 										<tr><td style="padding-left:35px;padding-bottom:25px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:15px;text-align: justify; color:#444444; font-size: 14px; line-height: 20px;"> We are so excited about DUMA’s potential and would love to make you a part of this experience. Your contribution gives DUMA a better shot at tackling the dire unemployment situation in Kenya, and every little bit counts.  </td> </tr>
+ 															<tr>
+								<td style="padding-left:25px;padding-right:25px;"> <div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div></td>
+ 							</tr>
+
  								</tbody>
 							</table>
 															
