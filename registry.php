@@ -12,7 +12,7 @@
 	<div class="span15" style="margin-top:auto; margin-bottom: 25px; margin-left:45px; margin-right: auto;align:center;">
 							<table style="background-color: #ffffff;opacity:0.8;align:center;margin-top:40px;margin-right:auto; margin-left:auto;margin-bottom: auto; width:900px;">
 								<tbody>
-										<tr><td style="padding-left:35px;padding-bottom:0px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:15px;text-align: justify; color:#444444; font-size: 14px; line-height: 20px;"> <br>Two recent Princeton grads moving to Kenya to transform the face of hiring in the developing world? It's not the typical post-college route, but our team has been working full steam since November, through thesis, finals, and even the famous Princeton lawnparties. We already have software and a working website, a successful alpha test, community partnerships, and an enthusiastic team of mentors.  We have also pitched the concept to investors on the floor of the New York Stock Exchange, been featured in Forbes Magazine, and created relationships with ambassadors and business executives from around the world. Now, all we need is <b>your support.</b> </br> 
+										<tr><td style="padding-left:35px;padding-bottom:0px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:15px;text-align: justify; color:#444444; font-size: 14px; line-height: 20px;"> <br>Two recent Princeton grads moving to Kenya to transform the face of hiring in the developing world? It's not the typical post-college route, but our team has been working full steam since November, through thesis, finals, and even the famous Princeton lawnparties. We already have software and a working website, a successful alpha test, community partnerships, and an enthusiastic team of mentors.  We have also pitched the concept to investors on the floor of the New York Stock Exchange, been featured in Forbes Magazine, and created relationships with ambassadors and business executives from around the world. </br><br>Now, all we need is <b>your support.</b> </br> 
 										<br> In September 2012, we will be shipping off to Kenya to launch DUMA's pilot test. We've raised some money through business competitions and grants, but we need your help to cover our <b>start-up costs</b> and to give us enough <b>time</b> and <b>support</b> in Kenya to get DUMA off the ground and running. With this registry, you can fund a portion (or all!) of our plane ticket, or buy us some malaria pills, or give a local Kenyan a job with DUMA as an outreach worker. </br> <br> You can also make an unspecified contribution by clicking the button below:</br></td> </tr>
 										<tr><td><form style="padding-left:30px;"  action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 											<input type="hidden" name="cmd" value="_s-xclick">
@@ -55,11 +55,11 @@
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
-									<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+									<form style="color:#303030;" action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 									<input type="hidden" name="cmd" value="_s-xclick">
 									<input type="hidden" name="hosted_button_id" value="VFTLMCK74QGBL">
 									<table>
-										<tr><input style="color:#303030;" type="hidden" name="on0" value="Bundles"><select name="os0">
+										<tr><input type="hidden" name="on0" value="Bundles"><select name="os0">
 											<option value="1 bundle">$10.00 USD</option>
 											<option value="2 bundles">$20.00 USD</option>
 											<option value="3 bundles">$30.00 USD</option>
