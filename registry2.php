@@ -81,8 +81,7 @@
 									<input type="hidden" name="currency_code" value="USD">
 									<button class="btn medium orange" style="line-height:20px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -20px;align:center;">Contribute to DUMA!</button>						
 									</form>
-<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true"></div>
-
+<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="250" data-show-faces="true"></div>
 								</td>
 							</tr>										
 							<tr>
