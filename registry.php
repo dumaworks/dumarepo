@@ -57,7 +57,7 @@
 								<td style="padding-left:25px;padding-right:25px;">
 									<form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 									<input type="hidden" name="cmd" value="_s-xclick">
-									<input style="background-color: #303030;" type="hidden" name="hosted_button_id" value="VFTLMCK74QGBL">
+									<input type="hidden" name="hosted_button_id" value="VFTLMCK74QGBL">
 									<table>
 										<tr><input type="hidden" name="on0" value="Bundles"><select name="os0">
 											<option value="1 bundle">$10.00 USD</option>
@@ -93,7 +93,7 @@
 								<td> <br> <img src="images/food.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
 							</tr>
 
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>13% funded</i></b> </td>
 								</br> 
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> We were toying around with the idea of eating 1 square meal of rice and beans each day. And then we spoke with our parents...you can imagine the reception. It's only a dollar or two per meal, unless we get really crazy and order a Coke. Please feed us!</p> <p> <b>Quantity needed: </b> 3 months of food each costing $250</td>  
