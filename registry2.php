@@ -83,9 +83,8 @@
 									</form>								</td>
 							</tr>										
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> </td>
-														<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
-
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px"><p> <i> Note that contributions are not tax-deductible.</i></p> 														<div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="300" data-show-faces="true"></div>
+</td>
 							</tr>
 							</tbody>
 						</table>
