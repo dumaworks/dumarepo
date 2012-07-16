@@ -31,24 +31,21 @@
 										<tr><td style="padding-left:35px;padding-bottom:0px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 14px; line-height: 18px;"> <br><i><b>"I’m a trained mechanic, but I don’t know anyone who's hiring" ... "My nanny just called in sick, and I need someone to watch my kids this afternoon”</b></i>&nbsp; Under pressure like this, many turn to the Internet. What if you couldn't? 
 										</br><br><b>WHAT:</b> DUMA is a job matchmaking service for the developing world. We make the hiring process social and catered to a basic (read: non-smart) phone. Find out more <a href="http://www.dumaworks.com/about.php" target="_blank"><b><i>here.</b></i></a></br> 
 										<br> <b>WHO:</b> A couple of <a href="http://www.dumaworks.com/team.php" target="_blank">recent Princeton grads</a> who decided that helping their friends in Kenya find jobs could and should be scaled. Read about our work in Forbes Magazine, Princeton Alumni Weekly, and The Daily Princetonian <a href="http://www.dumaworks.com/press.php" target="_blank"><b><i>here.</b></i></a> </br>
-										<br> <b>THE ASK:</b> Your support for DUMA’s pilot test in Kenya will give us essential community feedback on our initial product and create the beginnings of our hiring network. We are moving to Kenya this September, and in just 3 months, we need to register over 15,000 users, 50 businesses, and make at least 1000 job connections… and we need your help to do it. </br>
- 										<p><br> <b> <i> $5,000 </i> </b>gets us both to Kenya and covers our room and board. [crucial for safety]</p>
-										<p><b> <i> $7,500 </i> </b>covers operating costs while DUMA is free for users during the pilot test. [crucial for business]</p>
-										<p><b> <i> $10,000 </i> </b>hires a full-time marketing staff to get users signed up and collect feedback. [crucial for building a network]</p>
-										<p><b> <i>$15,000 </i> </b>pays for a full-time coder to work with us in Kenya. [crucial for software development]</p>
-										<p><b> <i>$22,500 </i> </b> pays for initial legal expenses. [crucial for creating formal business entity and getting an investment]</p>
+										<br> <b>THE ASK:</b> Your support for DUMA’s pilot test will provide us with essential community feedback on our initial product and create the beginnings of our hiring network. We are moving to Kenya this September, and in just 3 months, we need to register over 15,000 users, 50 businesses, and make at least 1000 job connections… and we need your help to do it. </br>
  
+									<br> <img src="images/funding goal.png" style="margin-left:0px;" width="760x" height="150px"></img></br>
 
 										<br> Support our efforts by choosing a gift from the registry below or making a general contribution:</br>
 										
-										<tr><td><form style="padding-left:30px;"  action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
+										<tr><td><form style="padding-left:30px;padding-bottom:0px"  action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 										<input type="hidden" name="cmd" value="_s-xclick">
 											<input type="hidden" name="hosted_button_id" value="4BVTNB2FECJPE">
 										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: 0px;align:center;">Contribute through PayPal</button>
 										<p></p><p><a href="https://venmo.com?txn=Pay&recipients=Duma&note=to%20help%20DUMA%20launch%20in%20Kenya!&share=vft" target="_blank"><img src="images/venmo.png" style="width:193px"/></a></p>
-										</form>
-										 </td> </tr>
+										</form> </td> </tr>
+																				 	
  										<tr><td style="padding-left:35px;padding-right:25px;padding-bottom:10px;"> <div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="450" data-show-faces="false"></div></td></tr>
+
 
 							</tbody>
 						</table>
