@@ -31,7 +31,7 @@
 										<input type="hidden" name="cmd" value="_s-xclick">
 											<input type="hidden" name="hosted_button_id" value="4BVTNB2FECJPE">
 										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: 0px;align:center;">Contribute through PayPal</button>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&amount=10&note=for%20500%20text%20messages!" target="_blank"><img src="images/venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&amount=&note=to%20help%20DUMA%20launch%20in%20Kenya!" target="_blank"><img src="images/venmo.png" style="width:193px"/></a></p>
 
 										</form> </p></td> </tr>
  										<tr><td style="padding-left:35px;padding-right:25px;padding-bottom:10px;"> <div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="450" data-show-faces="false"></div></td></tr>
