@@ -39,8 +39,8 @@
 										<tr><td><form style="padding-left:30px;padding-bottom:0px"  action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 										<input type="hidden" name="cmd" value="_s-xclick">
 											<input type="hidden" name="hosted_button_id" value="4BVTNB2FECJPE">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: 0px;align:center;">Contribute through PayPal</button>
-										<p></p><p><a href="https://venmo.com?txn=Pay&recipients=Duma&note=to%20help%20DUMA%20launch%20in%20Kenya!&share=vft" target="_blank"><img src="images/venmo.png" style="width:193px"/></a></p>
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: 0px;align:center;">Contribute with PayPal</button>
+										<p></p><p><a href="https://venmo.com?txn=Pay&recipients=Duma&note=to%20help%20DUMA%20launch%20in%20Kenya!&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 										</form>
 										
 
@@ -98,9 +98,9 @@
 										</select> </tr>
 									</table>
 									<input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 									</form>
 
 								</td>
@@ -146,9 +146,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>
 							</tr>										
@@ -200,9 +200,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 																				<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>
 						
@@ -249,9 +249,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>					
 								</td>
@@ -298,9 +298,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>						
 								</td>
@@ -346,9 +346,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>
 								</td>
@@ -399,9 +399,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>								</td>
 							</tr>										
@@ -445,9 +445,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>								</td>
 							</tr>										
@@ -498,9 +498,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>								</td>
 							</tr>										
@@ -544,9 +544,9 @@
 </select> </tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute through PayPal</button> 
+										<button class="btn medium orange" style="line-height:18px;font-size:16px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: -30px;align:center;">Contribute with PayPal</button> 
 										<p></p>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="http://dl.dropbox.com/u/188846/venmo/contribute-with-venmo.png" style="width:193px"/></a></p>
+										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&share=vft" target="_blank"><img src="images/venmo.png" style="width:189px"/></a></p>
 
 </form>								</td>
 							</tr>										
