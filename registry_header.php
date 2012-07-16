@@ -86,8 +86,9 @@
       }
 		.content {
 		background-image: url(images/background.png);
-		background-color: #eee;
-		height: 4040px; 
+		background-color: #ffffff;
+		opacity:0.9;
+		height: 4170px; 
 		}
 		.bottom_pane {
 		background-color: #fff;
