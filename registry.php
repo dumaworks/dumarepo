@@ -44,7 +44,7 @@
 										</form>
 										
 
-										<tr><td style="padding-left:35px;padding-bottom:20px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 18px; line-height: 18px;"> <b>AMOUNT RAISED:</b> $500
+										<tr><td style="padding-left:35px;padding-bottom:20px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 18px; line-height: 18px;"> <b>AMOUNT RAISED:</b> $838.10
 										<p><img src="images/funding goal.png" style="margin-left:0px;margin-top:15px;" width="762x" height="150px"></img></p>
  										</td> </tr>
 								 	
@@ -67,16 +67,15 @@
 			<table style="width:900px">
 				<td>
 			
-					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
+					<div class="span4" style="margin-top:20px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
 					
-						<table style="padding:25px;align:center;  height:645px; width:350px; background-color: #ffffff;opacity:0.8;">
+						<table style="padding:25px;align:center;  height:580px; width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Bundles of 500 Text Messages <p></p> </td>
 							
 							<tr>
-								<td> <br> <img src="images/text.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
+								<td> <br> <img src="images/text.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
 							</tr>
 
 								</br> 
@@ -113,15 +112,12 @@
 					</td>
 					<td>
 					
-					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; height:645px; background-color: #ffffff;opacity:0.8;">
+					<div class="span4" style="margin-top:20px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
+				<table style="align:center; width:350px; height:580px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Malaria Pills<p></p> </td>
-							</tr>
-							<tr>
-								<td> <br> <img src="images/mosquito.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
+								<td> <br> <img src="images/mosquito.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
@@ -169,14 +165,11 @@
 			<table style="width:900px; margin-left:auto">
 				<td>		
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; height:650px;background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:580px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Local Transportation in Nakuru<p></p> </td>
-							</tr>
-							<tr>
-								<td> <br> <img src="images/moses.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
+								<td> <br> <img src="images/moses.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
@@ -220,14 +213,13 @@
 							
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
 					
-						<table style="padding:25px;align:center; width:350px;height:650px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:580px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Food in Nakuru for 1 month<p></p> </td>
 							
 							<tr>
-								<td> <br> <img src="images/food.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
+								<td> <br> <img src="images/food.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
 							</tr>
 
 								</br> 
@@ -267,14 +259,11 @@
 			<table style="width:900px; margin-left:auto">
 				<td>		
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-				<table style="align:center; height:640px;width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:600px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Rent in Nakuru for 1 month <p></p> </td>
-							</tr>
-							<tr>
-								<td> <br> <img src="images/naka.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:240px;width:330px" > </img> </td>
+								<td> <br> <img src="images/naka.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;height:240px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
@@ -314,14 +303,11 @@
 				</td>
 				<td>
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center; height:640px;width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:600px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Community Outreach Workers<p></p> </td>
-							</tr>
-							<tr>
-								<td> <br> <img src="images/outreach.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:240px;width:330px" > </img> </td>
+								<td> <br> <img src="images/outreach.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;height:240px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
@@ -369,14 +355,11 @@
 			<table style="width:900px; margin-left:auto">
 				<td>		
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-				<table style="align:center; height:630px;width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:580px; background-color: #ffffff;opacity:0.8;">
 						<tbody>
 
 							<tr>
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Tech Support in Kenya <p></p> </td>
-							</tr>
-							<tr>
-								<td> <br> <img src="images/tech.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:240px;width:330px" > </img> </td>
+								<td> <br> <img src="images/tech.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;height:240px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
@@ -414,14 +397,11 @@
 				</td>
 				<td>	
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center; height:630px;width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:580px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Rent in Nairobi for 1 month<p></p> </td>
-							</tr>
-							<tr>
-								<td> <br> <img src="images/nairobi.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:240px;width:330px" > </img> </td>
+								<td> <br> <img src="images/nairobi.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;height:240px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
@@ -467,14 +447,11 @@
 			<table style="width:900px; margin-left:auto">
 				<td>		
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-				<table style="align:center;  height:650px;width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:580px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> 1 plane ticket to Kenya <p></p> </td>
-							</tr>
-							<tr>
-								<td> <br> <img src="images/flight.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
+								<td> <br> <img src="images/flight.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
@@ -513,14 +490,11 @@
 				</td>
 				<td>
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center;  height:650px;width:350px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:580px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
-								<td style="padding-top:25px;padding-left:25px;padding-right:25px;vertical-align:bottom;font-family: 'Tahoma', sans-serif; text-align: center; font-weight: normal; color:#303030; font-size: 22px; line-height: 10px;"> Lawyer Fees<p></p> </td>
-							</tr>
-							<tr>
-								<td> <br> <img src="images/lawyer2.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
+								<td> <br> <img src="images/lawyer2.jpg" style="padding-top:5px;padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
 							</tr>
 
 							<tr>
