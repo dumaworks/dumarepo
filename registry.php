@@ -10,6 +10,7 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+
   <head>
 
     <?include "registry_header.php"?>
@@ -20,31 +21,43 @@
 					<div class="row " style="margin-right: auto; margin-bottom: auto">
 						
 					
-	<div class="span15" style="margin-top:auto; margin-bottom: 25px; margin-left:45px; margin-right: auto;align:center;">
-							<table style="background-color: #ffffff;opacity:0.8;align:center;margin-top:40px;margin-right:auto; margin-left:auto;margin-bottom: auto; width:900px;">
-								<tbody>
+		<div class="span15">
+			<table style="width:900px">
+				<td>
 			
-										<tr><td style="padding-left:35px;padding-bottom:0px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:15px;text-align: justify; color:#444444; font-size: 14px; line-height: 20px;"> <br>Two recent grads moving to Kenya to transform the face of hiring in the developing world? It's not the typical post-college route, but our team has been working full steam since November, through thesis, finals, and even the famous Princeton lawnparties. We already have software and a working website, a successful alpha test, community partnerships, and an enthusiastic team of mentors.  We have also pitched the concept to investors on the floor of the New York Stock Exchange, been featured in Forbes Magazine, and created relationships with ambassadors and business executives from around the world. </br><br>Now, all we need is <b>your support.</b> &nbsp;We are so excited about DUMA’s potential and would love to make you a part of this experience. </br> 
-										<br> In September 2012, we will be shipping off to Kenya to launch DUMA's pilot test. We've raised some money through business competitions and grants, but we need your help to cover our start-up costs and to give us enough time and support in Kenya to get DUMA off the ground and running. With this registry, you can fund a portion (or all!) of our plane ticket, or buy us some malaria pills, or give a local Kenyan a job with DUMA as an outreach worker. </br>
-										<br> We are collecting contributions through PayPal and Venmo. You can choose a gift from the registry or make a general contribution:</br>
-										<p></p><p>
+					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
+							<table style="background-color: #ffffff;opacity:0.8;align:center;margin-top:40px;margin-right:auto; margin-left:auto;margin-bottom: auto; height:600px;width:825px;">
+								<tbody>
+										<tr><td style="padding-left:35px;padding-bottom:0px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 14px; line-height: 18px;"> <br><i><b>"I’m a trained mechanic, but I don’t know anyone who's hiring" ... "My nanny just called in sick, and I need someone to watch my kids this afternoon”</b></i>&nbsp; Under pressure like this, many turn to the Internet. What if you couldn't? 
+										</br><br><b>WHAT:</b> DUMA is a job matchmaking service for the developing world. We make the hiring process social and catered to a basic (read: non-smart) phone. Find out more <a href="http://www.dumaworks.com/about.php" target="_blank"><b><i>here.</b></i></a></br> 
+										<br> <b>WHO:</b> A couple of <a href="http://www.dumaworks.com/team.php" target="_blank">recent Princeton grads</a> who decided that helping their friends in Kenya find jobs could and should be scaled. Read about our work in Forbes Magazine, Princeton Alumni Weekly, and The Daily Princetonian <a href="http://www.dumaworks.com/press.php" target="_blank"><b><i>here.</b></i></a> </br>
+										<br> <b>THE ASK:</b> Your support for DUMA’s pilot test in Kenya will give us essential community feedback on our initial product and create the beginnings of our hiring network. We are moving to Kenya this September, and in just 3 months, we need to register over 15,000 users, 50 businesses, and make at least 1000 job connections… and we need your help to do it. </br>
+ 										<p><br> <b> <i> $5,000 </i> </b>gets us both to Kenya and covers our room and board. [crucial for safety]</p>
+										<p><b> <i> $7,500 </i> </b>covers operating costs while DUMA is free for users during the pilot test. [crucial for business]</p>
+										<p><b> <i> $10,000 </i> </b>hires a full-time marketing staff to get users signed up and collect feedback. [crucial for building a network]</p>
+										<p><b> <i>$15,000 </i> </b>pays for a full-time coder to work with us in Kenya. [crucial for software development]</p>
+										<p><b> <i>$22,500 </i> </b> pays for initial legal expenses. [crucial for creating formal business entity and getting an investment]</p>
+ 
+
+										<br> Support our efforts by choosing a gift from the registry below or making a general contribution:</br>
+										
+										<tr><td><form style="padding-left:30px;"  action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 										<input type="hidden" name="cmd" value="_s-xclick">
 											<input type="hidden" name="hosted_button_id" value="4BVTNB2FECJPE">
 										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: 0px;align:center;">Contribute through PayPal</button>
-										<p><a href="https://venmo.com?txn=Pay&recipients=Duma&note=to%20help%20DUMA%20launch%20in%20Kenya!&share=vft" target="_blank"><img src="images/venmo.png" style="width:193px"/></a></p>
-
-										</form> </p></td> </tr>
+										<p></p><p><a href="https://venmo.com?txn=Pay&recipients=Duma&note=to%20help%20DUMA%20launch%20in%20Kenya!&share=vft" target="_blank"><img src="images/venmo.png" style="width:193px"/></a></p>
+										</form>
+										 </td> </tr>
  										<tr><td style="padding-left:35px;padding-right:25px;padding-bottom:10px;"> <div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="450" data-show-faces="false"></div></td></tr>
 
- 								</tbody>
-							</table>
-															
- 								</tbody>
-							</table>
+							</tbody>
+						</table>
 						</div>
+				</td>	
+					
+							
 							
 						
-																										<tr><td><form style="padding-left:30px;"  action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post">
 											 																
 
 
@@ -65,7 +78,6 @@
 								<td> <br> <img src="images/text.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;width:330px" > </img> </td>
 							</tr>
 
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>3% funded</i></b> </td>
 								</br> 
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> This represents the core of our service: without text messaging, we can't run a text message-based platform! Your generous contribution will help us connect the unemployed to jobs.</p> <p> <b>Quantity needed: </b> 100 bundles each costing $10</td> 
@@ -112,7 +124,6 @@
 							</tr>
 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 							</tr>
 								</br> 
 							<tr>
@@ -168,7 +179,6 @@
 							</tr>
 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 							</tr>
 								</br> 
 							<tr>
@@ -219,7 +229,6 @@
 								<td> <br> <img src="images/food.jpg" style="padding-left:10px;padding-right:20px;margin-left:10px;height:250px;width:330px" > </img> </td>
 							</tr>
 
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>13% funded</i></b> </td>
 								</br> 
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> We were toying around with the idea of eating 1 square meal of rice and beans each day. And then we spoke with our parents...you can imagine the reception. It's only a dollar or two per meal, unless we get really crazy and order a Coke. Please feed us!<br></br></p> <p> <b>Quantity needed: </b> 3 months of food each costing $250</td>  
@@ -268,7 +277,6 @@
 							</tr>
 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 							</tr>
 								</br> 
 							<tr>
@@ -316,7 +324,6 @@
 							</tr>
 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 							</tr>
 								</br> 
 							<tr>
@@ -372,7 +379,6 @@
 							</tr>
 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 							</tr>
 								</br> 
 							<tr>
@@ -418,7 +424,6 @@
 							</tr>
 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 							</tr>
 								</br> 
 							<tr>
@@ -472,7 +477,6 @@
 							</tr>
 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 							</tr>
 								</br> 
 							<tr>
@@ -519,7 +523,6 @@
 							</tr>
 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:15px;width:300px;font-family: 'Tahoma', sans-serif; text-align: left; font-weight: normal; color:#303030; font-size: 14px; line-height: 10px;"> <i><b>0% funded</i></b> </td>
 							</tr>
 								</br> 
 							<tr>
