@@ -33,7 +33,6 @@
 										<br> <b>WHO:</b> A couple of <a href="http://www.dumaworks.com/team.php" target="_blank">recent Princeton grads</a> who decided that helping their friends in Kenya find jobs could and should be scaled. Read about our work in Forbes Magazine, Princeton Alumni Weekly, and The Daily Princetonian <a href="http://www.dumaworks.com/press.php" target="_blank"><b><i>here.</b></i></a> </br>
 										<br> <b>THE ASK:</b> Your support for DUMA’s pilot test will provide us with essential community feedback on our initial product and create the beginnings of our hiring network. We are moving to Kenya this September, and in just 3 months, we need to register over 15,000 users, 50 businesses, and make at least 1000 job connections… and we need your help to do it. </br>
  
-									<br> <img src="images/funding goal.png" style="margin-left:0px;" width="760x" height="150px"></img></br>
 
 										<br> Support our efforts by choosing a gift from the registry below or making a general contribution:</br>
 										
@@ -42,8 +41,13 @@
 											<input type="hidden" name="hosted_button_id" value="4BVTNB2FECJPE">
 										<button class="btn medium orange" style="line-height:18px;font-size:14px;font-weight:lighter;font-family: 'Tahoma', sans-serif;margin-left:0px;margin-top: 0px;align:center;">Contribute through PayPal</button>
 										<p></p><p><a href="https://venmo.com?txn=Pay&recipients=Duma&note=to%20help%20DUMA%20launch%20in%20Kenya!&share=vft" target="_blank"><img src="images/venmo.png" style="width:193px"/></a></p>
-										</form> </td> </tr>
-																				 	
+										</form>
+										
+
+										<tr><td style="padding-left:35px;padding-bottom:20px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 18px; line-height: 18px;"> <b>AMOUNT RAISED:</b> $500
+										<p><img src="images/funding goal.png" style="margin-left:0px;margin-top:15px;" width="762x" height="150px"></img></p>
+ 										</td> </tr>
+								 	
  										<tr><td style="padding-left:35px;padding-right:25px;padding-bottom:10px;"> <div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="450" data-show-faces="false"></div></td></tr>
 
 
