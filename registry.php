@@ -44,7 +44,7 @@
 										</form>
 										
 
-										<tr><td style="padding-left:35px;padding-bottom:20px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 18px; line-height: 18px;"> <b>AMOUNT RAISED:</b> $838.10
+										<tr><td style="padding-left:35px;padding-bottom:20px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 18px; line-height: 18px;"> <b>AMOUNT RAISED:</b> $866.10
 										<p><img src="images/funding goal.png" style="margin-left:0px;margin-top:15px;" width="762x" height="150px"></img></p>
  										</td> </tr>
 								 	
@@ -69,7 +69,7 @@
 			
 					<div class="span4" style="margin-top:20px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
 					
-						<table style="padding:25px;align:center;  height:580px; width:350px; background-color: #ffffff;opacity:0.8;">
+						<table style="padding:25px;align:center;  height:540px; width:350px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							
@@ -80,7 +80,7 @@
 
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> This represents the core of our service: without text messaging, we can't run a text message-based platform! Your generous contribution will help us connect the unemployed to jobs.</p> <p> <b>Quantity needed: </b> 100 bundles each costing $10</td> 
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> 1 text = 1 job. <br> It's as simple as that.</br></p> <p> <b>Quantity needed: </b> 100 bundles each costing $10</td> 
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -113,7 +113,7 @@
 					<td>
 					
 					<div class="span4" style="margin-top:20px; margin-bottom: 0px; margin-left:30px;margin-right: auto;align:center;">
-				<table style="align:center; width:350px; height:580px; background-color: #ffffff;opacity:0.8;">
+				<table style="align:center; width:350px; height:540px; background-color: #ffffff;opacity:0.8;">
 							<tbody>
 
 							<tr>
@@ -124,7 +124,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Please help us avoid malaria! <br> It sticks with you for life… </br><br></br></p> <p> <b>Quantity needed: </b> 12 batches of pills each costing $50 </td>  
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Please help us avoid malaria! <br> It sticks with you for life… </br></p> <p> <b>Quantity needed: </b> 12 batches of pills each costing $50 </td>  
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -176,7 +176,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Moses is our piki piki (motorcycle) driver who we trust with our lives everyday. He listens to the Backstreet Boys and really likes talking about the tall buildings in New York. In short, DUMA doesn't run without Moses. This support will carry us along (quite literally) as we establish the company.</p> <p> <b>Quantity needed: </b> 3 months of travel for $100 each </td>
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Moses is our piki piki (motorcycle) driver who we trust with our lives everyday. He keeps us safe everyday while jammin’ to the Backstreet Boys. In short, DUMA doesn't run without Moses.</p> <p> <b>Quantity needed: </b> 3 months of travel for $100 each </td>
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -224,7 +224,7 @@
 
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> We were toying around with the idea of eating 1 square meal of rice and beans each day. And then we spoke with our parents...you can imagine the reception. It's only a dollar or two per meal, unless we get really crazy and order a Coke. Please feed us!<br></br></p> <p> <b>Quantity needed: </b> 3 months of food each costing $250</td>  
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Eating only 1 meal a day of rice and beans didn’t quite go over with the folks… Plus, it's only a dollar or two per meal, unless we get really crazy and order a Coke. Please feed us!</p> <p> <b>Quantity needed: </b> 3 months of food each costing $250</td>  
 							</tr>
 							<tr>
 							<td style="padding-left:25px;padding-right:25px;">
@@ -270,7 +270,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Your contribution will give us a good night's sleep every night. You'll also help us live in a safe, gated community with a wonderful host family who will take the best care of us. Come visit us in Kenya!<br></br></p> <p> <b>Quantity needed: </b> 3 months of rent each costing $250</td>   
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Help give us a good night’s sleep in a safe, gated home with a warm host family. PERK: you’re welcome to visit and couch surf anytime!</p> <p> <b>Quantity needed: </b> 3 months of rent each costing $250</td>   
 							</tr>
 							<tr>
 							<td style="padding-left:25px;padding-right:25px;">
@@ -314,7 +314,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> We need a trustworthy and motivated team in Kenya to establish and grow our company. Help us staff a team of local outreach workers, who will be enrolling new users, getting consumer feedback, and helping us build DUMA into a community-friendly platform.</p> <p>  <b>Quantity needed: </b> 5 outreach workers
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Help us hire 5 local people to help establish the company and gain momentum and trust from the community. </p> <p>  <b>Quantity needed: </b> 5 outreach workers
 								</td>  
 							</tr>
 							<tr>
@@ -366,7 +366,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> We want to keep our company as Kenyan as possible and think that a software developer is the place to begin. We have a lead software developer working for us remotely from the US, but believe that having someone in Kenya on hand is going to be a vital factor in our success.</p> <p> <b>Quantity needed: </b> 6 months each costing $200</td> 
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;">We have a lead software developer working for us remotely from the US, but believe that having someone in Kenya on hand is going to be a vital factor in our success.</p> <p> <b>Quantity needed: </b> 6 months each costing $200</td> 
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -408,7 +408,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Please help us live in a safe neighborhood in one of the most dangerous cities in the world! Your contribution will help us launch our product in Nairobi while having a safe home to return to at night.<br></br></p> <p> <b>Quantity needed: </b> 3 months of rent each costing $750 </td> 
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Your contribution will help us launch our product in Nairobi while having a safe home to return to at night.<br></br></p> <p> <b>Quantity needed: </b> 3 months of rent each costing $750 </td> 
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -458,7 +458,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> One of the more crucial aspects of our startup is living in the community so we can form strong community partnerships and foster trust in our company. We can figure out how to keep our costs low while living in Kenya, but it's a lot harder to cut corners in getting there!  </p> <p> <b>Quantity needed: </b> 2 tickets each costing $1750</td>
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Make our trip possible!<br> If we can’t get there, we can’t launch.</br> <br></br> </p> <p> <b>Quantity needed: </b> 2 tickets each costing $1750</td>
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
@@ -501,7 +501,7 @@
 							</tr>
 								</br> 
 							<tr>
-								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> According to the World Bank, Kenya was ranked 128 out of the world in level of difficulty in starting a business in 2011. We figured we'd try anyways, and your contribution helps us hire a lawyer to navigate these murky waters. <br></br></p> <p> <b>Amount needed: </b> $1500 </td>
+								<td style="padding-left:25px;padding-right:25px;padding-bottom:10px;font-family: 'Tahoma', sans-serif; text-align: justify; font-weight: lighter; color:#303030; font-size: 14px; line-height: 18px;"> Kenya was ranked 128 out of 183 countries worldwide for level of difficulty in starting a business in 2011. We figured we'd try anyways, but having a good lawyer would help. </p> <p> <b>Amount needed: </b> $1500 </td>
 							</tr>
 							<tr>
 								<td style="padding-left:25px;padding-right:25px;">
