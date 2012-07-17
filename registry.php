@@ -44,7 +44,7 @@
 										</form>
 										
 
-										<tr><td style="padding-left:35px;padding-bottom:20px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 18px; line-height: 18px;"> <b>AMOUNT RAISED:</b> $911.10
+										<tr><td style="padding-left:35px;padding-bottom:20px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 18px; line-height: 18px;"> <b>AMOUNT RAISED:</b> $1051.10
 										<p><img src="images/funding goal.png" style="margin-left:0px;margin-top:15px;" width="762x" height="150px"></img></p>
  										</td> </tr>
 								 	
