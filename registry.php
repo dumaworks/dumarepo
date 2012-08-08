@@ -26,7 +26,7 @@
 				<td>
 			
 					<div class="span4" style="margin-top:0px; margin-bottom: 0px; margin-left:35px;margin-right: auto;align:center;">
-							<table style="background-color: #ffffff;opacity:0.8;align:center;margin-top:40px;margin-right:auto; margin-left:auto;margin-bottom: auto; height:600px;width:825px;">
+							<table style="background-color: #ffffff;opacity:0.8;align:center;margin-top:40px;margin-right:auto; margin-left:auto;margin-bottom: auto; height:640px;width:825px;">
 								<tbody>
 										<tr><td style="padding-left:35px;padding-bottom:0px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 14px; line-height: 18px;"> <br><i><b>"I’m a trained mechanic, but I don’t know anyone who's hiring" ... "My nanny just called in sick, and I need someone to watch my kids this afternoon”</b></i>&nbsp; Under pressure like this, many turn to the Internet. What if you couldn't? 
 										</br><br><b>WHAT:</b> DUMA is a job matchmaking service for the developing world. We make the hiring process social and catered to a basic (read: non-smart) phone. Find out more <a href="http://www.dumaworks.com/about.php" target="_blank"><b><i>here.</b></i></a></br> 
@@ -45,7 +45,7 @@
 										
 
 										<tr><td style="padding-left:35px;padding-bottom:20px;padding-right:35px;width:900px;font-family: 'Tahoma', sans-serif; margin-left:auto;text-align: justify; color:#444444; font-size: 18px; line-height: 18px;"> <b>AMOUNT RAISED:</b> $4438.10
-										<p><img src="images/funding goal.png" style="margin-left:0px;margin-top:15px;" width="762x" height="150px"></img></p>
+										<p><img src="images/funding goal.png" style="margin-left:0px;margin-top:15px;" width="762x" height="180px"></img></p>
  										</td> </tr>
 								 	
  										<tr><td style="padding-left:35px;padding-right:25px;padding-bottom:10px;"> <div class="fb-like" data-href="http://www.dumaworks.com/registry.php" data-send="true" data-width="450" data-show-faces="false"></div></td></tr>
